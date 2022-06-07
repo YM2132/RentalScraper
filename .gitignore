@@ -5,3 +5,4 @@ eggs
 dbs
 build
 project.egg-info
+logs
